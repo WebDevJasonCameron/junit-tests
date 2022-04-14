@@ -3,14 +3,14 @@
 Jason Cameron
 
 ## Getting Started
-1. Fork this repository to make a copy on your own GitHub account.
-1. Make sure that your browser is showing this project in your own repositories list in your own account.
-1. Click the green button on the right that says "Clone or Download". 
-1. The clone address should look like `git@github.com:your-github-username/junit-tests.git`, where `your-github-username` is actually your own username on GitHub.
-1. Once you've copied your repo's clone address, it's time to clone the project in one of two ways: 
+- [X] 1. Fork this repository to make a copy on your own GitHub account.
+- [X] 2. Make sure that your browser is showing this project in your own repositories list in your own account.
+- [X] 3. Click the green button on the right that says "Clone or Download". 
+- [X] 4. The clone address should look like `git@github.com:your-github-username/junit-tests.git`, where `your-github-username` is actually your own username on GitHub.
+- [X] 5. Once you've copied your repo's clone address, it's time to clone the project in one of two ways: 
     - If you're using IntelliJ, choose New->Project From Version Control->Git and then paste in the clone address.`git clone git@github.com:your-github-username/junit-tests.git`.
     - If you're using command line, then execute the following command line command: `git clone git@github.com:your-github-username/junit-tests.git`.
-1. Once cloned to your projects directory, open up the project.
+- [X] 6. Once cloned to your projects directory, open up the project.
 
 ## Exercises
 
@@ -23,7 +23,7 @@ We will follow the best practices of TDD, and we will create our tests first and
 - `grades` is an `ArrayList` that contains a list of `Integer` numbers.
 
 1. Create a new branch called `students-tests` and read carefully the next instructions.
-1. Create a `StudentTest.java` class file inside of `src/test/java` (you might have to create these folders yourself) and remember to write the test before the actual production code. We will simulate the `C(reate) R(ead)` from the `CRUD` functionality in our grades application, you should be able to test and create the following requirements:
+2. Create a `StudentTest.java` class file inside of `src/test/java` (you might have to create these folders yourself) and remember to write the test before the actual production code. We will simulate the `C(reate) R(ead)` from the `CRUD` functionality in our grades application, you should be able to test and create the following requirements:
 
     - The `Student` class should have a constructor that sets both the name and id property, it initializes the grades property as an empty ArrayList.
     - The `Student` class should have the following methods:
