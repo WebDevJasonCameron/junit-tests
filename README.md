@@ -1,5 +1,7 @@
 # Testing Legacy Code with JUnit
 
+Jason Cameron
+
 ## Getting Started
 1. Fork this repository to make a copy on your own GitHub account.
 1. Make sure that your browser is showing this project in your own repositories list in your own account.
